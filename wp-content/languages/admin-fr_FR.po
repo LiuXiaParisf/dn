@@ -10227,7 +10227,7 @@ msgstr "Un site utilisant %s"
 #. translators: site tagline
 #: wp-admin/includes/schema.php:398
 msgid "Just another WordPress site"
-msgstr "Un site utilisant WordPress"
+msgstr "One Professional Home-IoT Provider"
 
 #: wp-admin/includes/post.php:1341
 msgid "Change Permalinks"

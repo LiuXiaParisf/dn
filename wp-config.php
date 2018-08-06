@@ -31,7 +31,7 @@ define('DB_PASSWORD', 'root');
 define('DB_HOST', 'localhost');
 
 /** Jeu de caractères à utiliser par la base de données lors de la création des tables. */
-define('DB_CHARSET', 'utf8');
+define('DB_CHARSET', 'utf8mb4');
 
 /** Type de collation de la base de données.
   * N’y touchez que si vous savez ce que vous faites.
@@ -49,14 +49,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         ')*r}eorO_(`weO;~G5>>$}l$N?-]EA@[Wb7Y9-LJ/^}DwB5w3>M1AG|(?05KWwS9');
+define('SECURE_AUTH_KEY',  '@ @3nH4`L0WoGYaUfF{m{bSa_<P]e6)mqHo|Qu!^m6{<Qj5dgXS$]Yr~b;[kA ,>');
+define('LOGGED_IN_KEY',    'yja$=:l2wFj/Iz`ZmZTv{MY~%-4rj;?-[O`DQjFzw(w(@69JX-4H%Mf6^i_t1@Mr');
+define('NONCE_KEY',        'OU`*v#:!+*Z}9RO*~N~zIM]&YfKMO0~ZbO`6U:NJAXK,Og}[[GJbUe`3.>ibQ(Ir');
+define('AUTH_SALT',        '$2`NKzK23q4,DB2.,ReHOKeZTvIR+1+yq-G^9mI$jj9WC$NKotK4ICZKXS8+h8h?');
+define('SECURE_AUTH_SALT', 'F,a#fwLLaUO#9r:HM.%N; xfg1thCi !3dBAonAD~c(LE9Kw1|Q~Lz2%XcW%rF=S');
+define('LOGGED_IN_SALT',   '%1EC[QmCXbha)7ng]j,hL4/s{B;V,~h~pPg,9xL7LpqU;^{<`LXIj}VK9Nj&k(6+');
+define('NONCE_SALT',       'aq$anmQM%+p{H?ORd&M3]W;:BiAy.bR`O82/Lx,j>yPL3*3A(6{soQ[m8QVI_1`4');
 /**#@-*/
 
 /**
